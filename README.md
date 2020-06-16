@@ -17,3 +17,7 @@ I will list the most important concept/model proposed by each paper in this text
 **Deep Reinforcement Learning**:
 
 DeepMind, **Playing Atari with Deep Reinforcement Learning**, NIPS-2013(https://arxiv.org/abs/1312.5602): DQN, Deep Q-Network.
+
+--------------------------
+
+**Multi-Agent Reinforcement Learning**:
