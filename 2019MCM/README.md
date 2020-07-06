@@ -21,3 +21,12 @@ HELP, Inc. will use International Standards Organization (ISO) standard dry *car
 
 
 HELP, Inc. is asking your team to use the 2017 situation in Puerto Rico to design a DroneGo disaster response system that will fit within the containers noted while meeting the anticipated medical supply demands during a potential similar future disaster scenario. It is possible that the demand requirements of this scenario may exceed the capabilities of the drone fleet your team identifies. If this occurs, HELP, Inc. wants to clearly understand any tradeoffs that it must make for implementing solutions to address these shortcomings.
+
+--------------------------------------------------------
+
+**Three major problems are discussed in our work, which are:**  
+
+(A) Sending enough medical packages and drones to Puerto Rico by up to three ISO cargo containers. This requires us to find the best optimal solution of distributing 
+medical kits and drones.  
+(B) After sending those packages and drones to the Puerto Rico land, we need to find the best optimal location of those cargo containers in order to arrange route of drones which need to deliver medical packages to hospital or medical center.  
+(C) Finally, decide the configurations in each drone cargo bay, delivery routes and schedule. Then, design a drone flight plan to cover areas of land as more as possible. 
